@@ -4,4 +4,4 @@
 
 [CV](cv_2.pdf)
 
-![Backpacking in the Cascades](backpacking.jpg)
+![Backpacking in the Cascades](backpacking.JPG)
