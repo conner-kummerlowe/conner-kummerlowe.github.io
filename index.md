@@ -6,4 +6,5 @@
 
 [CV](cv_2.pdf)
 
-![Backpacking in the Cascades](backpacking.JPG)
+![](backpacking.JPG)
+*Backpacking Pilot Ridge in the Cascade Mountains*
